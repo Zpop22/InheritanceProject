@@ -27,6 +27,90 @@
     <ClCompile Include="Basidiomycetes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Ascomycetes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Asycomycota.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Saccharomycotina.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Taphrinomycotina.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Mushroom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Coral.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Crusts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Plant.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Equiseta.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Field_Horsetail.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dwarf_Scouring_Rush.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Wood_Horsetail.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lycopodia.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StagsHorn_Clubmoss.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Fan_Clubmoss.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Huperzia_Selago.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Gymnosperms.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sago_Palm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="English_Yew.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Blue_Spruce.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Angiosperms.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Maize.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tomato.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Peach.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ferns.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lady_Fern.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Eagle_Fern.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ostrich_Fern.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LivingThing.h">
@@ -36,6 +120,90 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Basidiomycetes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ascomycetes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Asycomycota.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Saccharomycotina.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Taphrinomycotina.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mushroom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Coral.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Crusts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Plant.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Equiseta.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Field_Horsetail.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Dwarf_Scouring_Rush.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Wood_Horsetail.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Lycopodia.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StagsHorn_Clubmoss.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Fan_Clubmoss.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Huperzia_Selago.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Gymnosperms.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sago_Palm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="English_Yew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Blue_Spruce.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Angiosperms.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Maize.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Tomato.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Peach.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ferns.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Lady_Fern.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Eagle_Fern.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ostrich_Fern.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

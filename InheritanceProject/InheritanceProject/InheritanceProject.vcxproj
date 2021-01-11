@@ -139,15 +139,71 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Angiosperms.cpp" />
+    <ClCompile Include="Ascomycetes.cpp" />
+    <ClCompile Include="Asycomycota.cpp" />
     <ClCompile Include="Basidiomycetes.cpp" />
+    <ClCompile Include="Blue_Spruce.cpp" />
+    <ClCompile Include="Coral.cpp" />
+    <ClCompile Include="Crusts.cpp" />
+    <ClCompile Include="Dwarf_Scouring_Rush.cpp" />
+    <ClCompile Include="Eagle_Fern.cpp" />
+    <ClCompile Include="English_Yew.cpp" />
+    <ClCompile Include="Equiseta.cpp" />
+    <ClCompile Include="Fan_Clubmoss.cpp" />
+    <ClCompile Include="Ferns.cpp" />
+    <ClCompile Include="Field_Horsetail.cpp" />
     <ClCompile Include="Fungi.cpp" />
+    <ClCompile Include="Gymnosperms.cpp" />
+    <ClCompile Include="Huperzia_Selago.cpp" />
     <ClCompile Include="InheritanceProject.cpp" />
+    <ClCompile Include="Lady_Fern.cpp" />
     <ClCompile Include="LivingThing.cpp" />
+    <ClCompile Include="Lycopodia.cpp" />
+    <ClCompile Include="Maize.cpp" />
+    <ClCompile Include="Mushroom.cpp" />
+    <ClCompile Include="Ostrich_Fern.cpp" />
+    <ClCompile Include="Peach.cpp" />
+    <ClCompile Include="Plant.cpp" />
+    <ClCompile Include="Saccharomycotina.cpp" />
+    <ClCompile Include="Sago_Palm.cpp" />
+    <ClCompile Include="StagsHorn_Clubmoss.cpp" />
+    <ClCompile Include="Taphrinomycotina.cpp" />
+    <ClCompile Include="Tomato.cpp" />
+    <ClCompile Include="Wood_Horsetail.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Angiosperms.h" />
+    <ClInclude Include="Ascomycetes.h" />
+    <ClInclude Include="Asycomycota.h" />
     <ClInclude Include="Basidiomycetes.h" />
+    <ClInclude Include="Blue_Spruce.h" />
+    <ClInclude Include="Coral.h" />
+    <ClInclude Include="Crusts.h" />
+    <ClInclude Include="Dwarf_Scouring_Rush.h" />
+    <ClInclude Include="Eagle_Fern.h" />
+    <ClInclude Include="English_Yew.h" />
+    <ClInclude Include="Equiseta.h" />
+    <ClInclude Include="Fan_Clubmoss.h" />
+    <ClInclude Include="Ferns.h" />
+    <ClInclude Include="Field_Horsetail.h" />
     <ClInclude Include="Fungi.h" />
+    <ClInclude Include="Gymnosperms.h" />
+    <ClInclude Include="Huperzia_Selago.h" />
+    <ClInclude Include="Lady_Fern.h" />
     <ClInclude Include="LivingThing.h" />
+    <ClInclude Include="Lycopodia.h" />
+    <ClInclude Include="Maize.h" />
+    <ClInclude Include="Mushroom.h" />
+    <ClInclude Include="Ostrich_Fern.h" />
+    <ClInclude Include="Peach.h" />
+    <ClInclude Include="Plant.h" />
+    <ClInclude Include="Saccharomycotina.h" />
+    <ClInclude Include="Sago_Palm.h" />
+    <ClInclude Include="StagsHorn_Clubmoss.h" />
+    <ClInclude Include="Taphrinomycotina.h" />
+    <ClInclude Include="Tomato.h" />
+    <ClInclude Include="Wood_Horsetail.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
