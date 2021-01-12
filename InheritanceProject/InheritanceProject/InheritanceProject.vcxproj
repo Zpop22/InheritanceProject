@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Angiosperms.cpp" />
+    <ClCompile Include="Animal.cpp" />
     <ClCompile Include="Ascomycetes.cpp" />
     <ClCompile Include="Asycomycota.cpp" />
     <ClCompile Include="Basidiomycetes.cpp" />
@@ -157,16 +158,20 @@
     <ClCompile Include="Gymnosperms.cpp" />
     <ClCompile Include="Huperzia_Selago.cpp" />
     <ClCompile Include="InheritanceProject.cpp" />
+    <ClCompile Include="Juniper_Haircap_Moss.cpp" />
     <ClCompile Include="Lady_Fern.cpp" />
     <ClCompile Include="LivingThing.cpp" />
     <ClCompile Include="Lycopodia.cpp" />
     <ClCompile Include="Maize.cpp" />
+    <ClCompile Include="Mosses.cpp" />
     <ClCompile Include="Mushroom.cpp" />
     <ClCompile Include="Ostrich_Fern.cpp" />
     <ClCompile Include="Peach.cpp" />
+    <ClCompile Include="Pincushion_Moss.cpp" />
     <ClCompile Include="Plant.cpp" />
     <ClCompile Include="Saccharomycotina.cpp" />
     <ClCompile Include="Sago_Palm.cpp" />
+    <ClCompile Include="Silvery_Bryum.cpp" />
     <ClCompile Include="StagsHorn_Clubmoss.cpp" />
     <ClCompile Include="Taphrinomycotina.cpp" />
     <ClCompile Include="Tomato.cpp" />
@@ -174,6 +179,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Angiosperms.h" />
+    <ClInclude Include="Animal.h" />
     <ClInclude Include="Ascomycetes.h" />
     <ClInclude Include="Asycomycota.h" />
     <ClInclude Include="Basidiomycetes.h" />
@@ -190,16 +196,20 @@
     <ClInclude Include="Fungi.h" />
     <ClInclude Include="Gymnosperms.h" />
     <ClInclude Include="Huperzia_Selago.h" />
+    <ClInclude Include="Juniper_Haircap_Moss.h" />
     <ClInclude Include="Lady_Fern.h" />
     <ClInclude Include="LivingThing.h" />
     <ClInclude Include="Lycopodia.h" />
     <ClInclude Include="Maize.h" />
+    <ClInclude Include="Mosses.h" />
     <ClInclude Include="Mushroom.h" />
     <ClInclude Include="Ostrich_Fern.h" />
     <ClInclude Include="Peach.h" />
+    <ClInclude Include="Pincushion_Moss.h" />
     <ClInclude Include="Plant.h" />
     <ClInclude Include="Saccharomycotina.h" />
     <ClInclude Include="Sago_Palm.h" />
+    <ClInclude Include="Silvery_Bryum.h" />
     <ClInclude Include="StagsHorn_Clubmoss.h" />
     <ClInclude Include="Taphrinomycotina.h" />
     <ClInclude Include="Tomato.h" />

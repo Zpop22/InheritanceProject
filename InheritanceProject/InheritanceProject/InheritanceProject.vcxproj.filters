@@ -111,6 +111,21 @@
     <ClCompile Include="Ostrich_Fern.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Mosses.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pincushion_Moss.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Silvery_Bryum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Juniper_Haircap_Moss.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Animal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LivingThing.h">
@@ -204,6 +219,21 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Ostrich_Fern.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mosses.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pincushion_Moss.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Silvery_Bryum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Juniper_Haircap_Moss.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Animal.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
